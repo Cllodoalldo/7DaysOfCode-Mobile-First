@@ -1,0 +1,14 @@
+@import url(./CSS/container.css);
+@import url(./CSS/consultas.css);
+@import url(./CSS/rodape.css);
+@import url(./CSS/cadastro.css);
+
+
+:root {
+    --cor-fonte-principal: #464646;
+    --cor-fonte-secundaria: #A3A3A3;
+    --cor-branca: #ffffff;
+    --cor-de-fundo-consulta: #ECECEC;
+    --cor-fundo-botao-video: #FFB050;
+    --cor-fundo-botao-mapa: #4894FF;
+}
